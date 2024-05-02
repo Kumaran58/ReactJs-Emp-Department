@@ -1,0 +1,1 @@
+To run the project,import the node modules(typeScript Based project)
